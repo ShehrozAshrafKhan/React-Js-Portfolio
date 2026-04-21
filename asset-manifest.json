@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ShehrozAshrafKhan/React-Js-Portfolio.git/static/css/main.6937e3a0.css",
+    "main.js": "/ShehrozAshrafKhan/React-Js-Portfolio.git/static/js/main.46f39443.js",
+    "static/media/portfolio5.png": "/ShehrozAshrafKhan/React-Js-Portfolio.git/static/media/portfolio5.db53de247ecf51ac4328.png",
+    "static/media/portfolio4.png": "/ShehrozAshrafKhan/React-Js-Portfolio.git/static/media/portfolio4.70ee24a0afdb8bedd108.png",
+    "static/media/portfolio1.png": "/ShehrozAshrafKhan/React-Js-Portfolio.git/static/media/portfolio1.05267e6b5c9b44a109d6.png",
+    "static/media/canva.png": "/ShehrozAshrafKhan/React-Js-Portfolio.git/static/media/canva.0af645faeb5a6bcc854a.png",
+    "static/media/portfolio6.png": "/ShehrozAshrafKhan/React-Js-Portfolio.git/static/media/portfolio6.4b38c869aa134ed6e5a0.png",
+    "static/media/portfolio3.png": "/ShehrozAshrafKhan/React-Js-Portfolio.git/static/media/portfolio3.8aafeaba93f1d9c65235.png",
+    "static/media/portfolio2.png": "/ShehrozAshrafKhan/React-Js-Portfolio.git/static/media/portfolio2.83629903a36cce3222e1.png",
+    "static/media/profile.png": "/ShehrozAshrafKhan/React-Js-Portfolio.git/static/media/profile.f60dec80c906f37291bb.png",
+    "static/media/resume.pdf": "/ShehrozAshrafKhan/React-Js-Portfolio.git/static/media/resume.c184fdaff8fc2bdfc4cc.pdf",
+    "index.html": "/ShehrozAshrafKhan/React-Js-Portfolio.git/index.html",
+    "main.6937e3a0.css.map": "/ShehrozAshrafKhan/React-Js-Portfolio.git/static/css/main.6937e3a0.css.map",
+    "main.46f39443.js.map": "/ShehrozAshrafKhan/React-Js-Portfolio.git/static/js/main.46f39443.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6937e3a0.css",
+    "static/js/main.46f39443.js"
+  ]
+}
